@@ -1,0 +1,36 @@
+tr:nth-child(1) {
+  background-color: black;
+  color: white;
+  border: none;
+}
+
+tr:nth-child(odd):not(:first-child) {
+  background-color: #cccfcd;
+}
+
+td, th {
+  padding: 5px;
+  text-align: start;
+}
+
+table {
+  border-collapse: collapse;
+}
+button {
+  color: white;
+  border:none;
+  border-radius: 5px;
+  
+}
+ button:hover {
+    border-color: #494949;
+  }
+.Twitter {
+ background-color: #1A8CD8;
+}
+.facebook {
+ background-color: #23A6F5;
+}
+.youtube {
+ background-color: #CC0000;
+}

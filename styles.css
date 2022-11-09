@@ -19,7 +19,7 @@ button {
   border-radius: 5px;
 }
 button:hover {
-  border-color: #494949;
+  background-color: #494949;
 }
 .twitter {
  background-color: #1A8CD8;

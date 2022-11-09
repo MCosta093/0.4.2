@@ -20,6 +20,7 @@ button {
 }
 button:hover {
   background-color: #494949;
+  padding: 2px;
 }
 .twitter {
  background-color: #1A8CD8;
